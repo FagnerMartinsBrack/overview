@@ -10,17 +10,25 @@ I also have a [blog on Medium](https://medium.com/@fagnerbrack) which you can fi
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
-## What I Expect From You
+## What I expect from you
 
-..
+* To allow me to learn and fail safely, as much as I'll allow you too.
+* To provide clear processes, practices, accountability and responsibility.
+* To listen and make feedback occur as often as possible and to be as specific as possible.
+* To ask for clarification on topics and interactions between us that are confusing.
+* To ask me questions to help you make better choices.
+* To provide clear principles, processes, practices, accountability and responsibility.
 
-## What You Can Expect From Me
+## What you can expect from me
 
-..
+* To work actively towards reducing my own [Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/).
+* To understand the full picture of the problem and how it relates to the relevant stakeholders before I can develop a solution.
+* To respect your opinions and support your decisions, even if I disagree with them.
+* To help in other responsibilities I might have skills to assist, as long as it's temporary and don't consume the majority of my coding job.
 
 ## Values
 
-In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Crafters](http://manifesto.softwarecraftsmanship.org/) manifesto. Here are my principles, with the same caveat of:
+In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Crafters](http://manifesto.softwarecraftsmanship.org/) manifesto. Here are my principles, with the same essential caveat of:
 
 > While there is value in the items on the right, I value the items on the left more
 
