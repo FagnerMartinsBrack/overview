@@ -38,3 +38,4 @@ In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Craf
 4. Mentoring over Managing
 5. Forecast over Estimation
 6. Fundamentals over Implementations
+7. Products over Projects
