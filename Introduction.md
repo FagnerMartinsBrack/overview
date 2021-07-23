@@ -10,19 +10,18 @@ I also have a [blog on Medium](https://medium.com/@fagnerbrack) where you can fi
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
-## What I expect from you
+## What I expect from the company and my peers
 
 * To allow me to learn and fail safely, as much as I'll allow you too.
 * To provide clear processes, practices, accountability and responsibility.
 * To listen and make feedback occur as often as possible and to be as specific as possible.
 * To ask for clarification on topics and interactions between us that are confusing.
-* To ask me questions to help you make better choices.
-* To provide clear principles, processes, practices, accountability and responsibility.
+* To ask me questions to help you make better choices, or allow me to ask you questions to help me make better choices.
 
-## What you can expect from me
+## What the company and my peers can expect from me
 
 * To work actively towards reducing my own [Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/).
-* To understand the full picture of the problem and how it relates to the relevant stakeholders before I can develop a solution.
+* To understand the full picture of the problem and how it relates to the relevant stakeholders before I can help developing a solution.
 * To respect your opinions and support your decisions, even if I disagree with them.
 * To help in other responsibilities I might have skills to assist, as long as it's temporary and don't consume the majority of my coding job.
 
