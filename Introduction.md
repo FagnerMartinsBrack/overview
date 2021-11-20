@@ -10,6 +10,8 @@ I also have a [blog on Medium](https://medium.com/@fagnerbrack) where you can fi
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
+One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working on teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders
+
 ## What I expect from the company and my peers
 
 * To allow me to learn and fail safely, as much as I'll allow you too.
