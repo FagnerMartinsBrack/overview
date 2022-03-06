@@ -4,7 +4,13 @@ The link you received provides an overview of my background, what you can expect
 
 ## Background
 
-I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Mob Programming, Pair Programming, and working individually. I've built profitable (and not profitable) systems end-to-end from scratch, with and without frameworks, alone as a Startup and together with a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
+I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures, Mob Programming, Pair Programming, and working individually. I've built profitable (and not profitable) systems end-to-end from scratch, with and without frameworks, alone as a Startup and together with a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
+
+My main interest and background is Software Engineering.
+
+However, I'm passionate about the whole software development process. For that reason, I also have some knowledge and experience in Psychology, User Experience, Customer Support, Public Relations, Product Development and Customer Behaviour Analysis, Cloud Billing Management, and Marketing.
+
+I **do not** have significant experience in Machine Learning, Strategic Decision-Making, Interpersonal Conflict Resolution, and Sales.
 
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
 
