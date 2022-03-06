@@ -8,7 +8,7 @@ I have experience working with small companies and large companies. I've been on
 
 My main interest and background is Software Engineering.
 
-However, I'm passionate about the whole software development process. For that reason, I also have some knowledge and experience in Psychology, User Experience, Customer Support, Public Relations, Product Development and Customer Behaviour Analysis, Cloud Billing Management, and Marketing.
+However, I'm passionate about the whole software development process. For that reason, I also have some knowledge and experience in Psychology, User Experience, Customer Support, Public Relations, Product Development / Customer Behaviour Analysis, Cloud Billing Management, and Marketing.
 
 I **do not** have significant experience in Machine Learning, Strategic Decision-Making, Interpersonal Conflict Resolution, and Sales.
 
