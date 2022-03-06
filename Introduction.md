@@ -18,6 +18,12 @@ I've been through a few cycles in the software industry where [Old Is the New Ne
 
 One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working on teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders, including to "manage up".
 
+## Personality
+
+Below is an overview of my personality traits according to the Big 5:
+
+![BIG5-graphic](https://user-images.githubusercontent.com/835857/156909180-899661ad-d5ce-426e-be22-c1c7fa0d6c05.png)
+
 ## What I expect from the company and my peers
 
 * To allow me to learn and fail safely, as much as I'll allow you too.
