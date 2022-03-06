@@ -4,13 +4,13 @@ The link you received provides an overview of my background, what you can expect
 
 ## Background
 
-I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Mob Programming, Pair Programming, and working solo. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
+I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Mob Programming, Pair Programming, and working individually. I've built profitable (and not profitable) systems end-to-end from scratch, with and without frameworks, alone as a Startup and together with a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
 
-I also have a [personal blog](https://fagnerbrack.com) where you can find posts about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
+I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
-One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working on teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders
+One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working on teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders, including to "manage up".
 
 ## What I expect from the company and my peers
 
