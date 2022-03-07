@@ -10,7 +10,7 @@ My main interest and background is Software Engineering.
 
 However, I'm passionate about the whole software development process. For that reason, I also have some knowledge and experience in Psychology, User Experience, Customer Support, Public Relations, Product Development / Customer Behaviour Analysis, Cloud Billing Management, and Marketing.
 
-I **do not** have significant experience in Machine Learning, Strategic Decision-Making, Framework-Specific API Syntax, and Sales.
+I **DO NOT** have significant knowledge, interest or experience in Machine Learning, Strategic Decision-Making, Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
 
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
 
