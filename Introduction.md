@@ -53,3 +53,4 @@ In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Craf
 6. Fundamentals over Implementations
 7. Products over Projects
 8. Knowledge over Tooling
+9. Maintainable Code over Developer Experience
