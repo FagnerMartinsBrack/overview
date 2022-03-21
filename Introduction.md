@@ -41,11 +41,11 @@ Below is an overview of my personality traits according to the Big 5:
 
 ## Values
 
-In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Crafters](http://manifesto.softwarecraftsmanship.org/) manifesto. Here are my principles, with the same essential caveat of:
+In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Crafters](http://manifesto.softwarecraftsmanship.org/) manifesto. Here are my values, with the same essential caveat of:
 
 > While there is value in the items on the right, I value the items on the left more
 
-1. Pragmatism over Purism
+1. Solving Problems over Applying Recipes
 2. Quality over Quantity
 3. Impact over Income
 4. Mentoring over Managing
@@ -53,4 +53,4 @@ In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Craf
 6. Fundamentals over Implementations
 7. Products over Projects
 8. Knowledge over Tooling
-9. Maintainable Code over Developer Experience
+10. Lean Approaches over Big Bang
