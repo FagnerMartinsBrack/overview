@@ -8,15 +8,19 @@ I have experience working with small companies and large companies. I've been on
 
 My main interest and background is Software Engineering.
 
-However, I'm passionate about the whole software development process. For that reason, I also have some knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
+However, I'm passionate and given my [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. For that reason, I also have some knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
 
-I **DO NOT** have significant knowledge or experience in Machine Learning and Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
+I **DO NOT** have significant knowledge or experience, but I'm keen to acquire it, in Machine Learning and Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
 
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
-One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working on teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders, including to "manage up".
+## Self-Management
+
+One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working in teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders, including to "manage up".
+
+However, depending on the personality differences of each peer and their values or ways of working, reaching common ground can take as little as days and as much as weeks. It's better to be aware of [Tuckman's curve](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) and to not give up once the Storming/Norming phase start to kick in.
 
 ## Personality
 
@@ -45,12 +49,13 @@ In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Craf
 
 > While there is value in the items on the right, I value the items on the left more
 
-1. Solving Problems over Applying Recipes
-2. Quality over Quantity
-3. Impact over Income
-4. Mentoring over Managing
-5. Forecast over Estimation
-6. Fundamentals over Implementations
-7. Products over Projects
-8. Knowledge over Tooling
+1. Company Values over Team Values over Individual Values
+2. Solving Problems over Applying Recipes
+3. Quality over Quantity
+4. Impact over Income
+5. Mentoring over Managing
+6. Forecast over Estimation
+7. Fundamentals over Implementations
+8. Products over Projects
+9. Knowledge over Tooling
 10. Lean Approaches over Big Bang
