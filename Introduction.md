@@ -8,7 +8,7 @@ I have experience working with small companies and large companies. I've been on
 
 My main interest and background is Software Engineering.
 
-However, I'm passionate and given my [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. For that reason, I also have some knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
+However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
 
 I **DO NOT** have significant knowledge or experience, but I'm keen to acquire it, in Machine Learning and Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
 
