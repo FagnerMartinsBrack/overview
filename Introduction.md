@@ -10,9 +10,11 @@ My main interest and background is Software Engineering.
 
 However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
 
-I **DO NOT** have significant knowledge or experience, but I'm keen to acquire it, in Machine Learning and Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
+I have a track record of improving teams in the long-term by 10x as a peer without being in a management role.
 
-I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and [js-cookie](https://github.com/js-cookie/js-cookie).
+I **DO NOT** have significant knowledge or experience in Machine Learning and Business Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
+
+I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and I'm the author of [js-cookie](https://github.com/js-cookie/js-cookie).
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
