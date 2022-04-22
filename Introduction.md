@@ -4,15 +4,15 @@ The link you received provides an overview of my background, what you can expect
 
 ## Background
 
-I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures, Mob Programming, Pair Programming, and working individually. I've built profitable (and not profitable) systems end-to-end from scratch, with and without frameworks, either as a solo developer Startup or together as a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
+I have experience working with small companies and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures; Mob Programming, Pair Programming, and working individually; Fully Distributed, Hybrid Distributed, and office-only. I've built profitable (and not profitable) systems end-to-end from scratch, with and without frameworks, either as a solo developer Startup or together as a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
 
 My main interest and background is Software Engineering.
 
-However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, and Marketing.
+However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, Ops, and Marketing/Advertising.
 
 I have a track record of improving teams in the long-term by 10x as a peer without being in a management role.
 
-I **DO NOT** have significant knowledge or experience in Machine Learning and Business Strategic Decision-Making. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
+I **DO NOT** have significant knowledge or experience in Machine Learning and Business Strategic Decision-Making, but happy to learn. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
 
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and I'm the author of [js-cookie](https://github.com/js-cookie/js-cookie).
 
