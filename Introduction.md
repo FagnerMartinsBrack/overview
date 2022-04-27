@@ -28,7 +28,8 @@ However, depending on the personality differences of each peer and their values 
 
 Below is an overview of my personality traits according to the Big 5:
 
-![BIG5-graphic](https://user-images.githubusercontent.com/835857/156909180-899661ad-d5ce-426e-be22-c1c7fa0d6c05.png)
+
+![BIG5-graphic](https://user-images.githubusercontent.com/835857/165518296-9d30ec06-9583-423d-8ae8-8ae55e856ac6.png)
 
 ## What I expect from the company and my peers
 
