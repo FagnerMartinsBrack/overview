@@ -33,8 +33,11 @@ However, depending on the personality differences of each peer and their values 
 
 Below is an overview of my personality traits according to the Big 5:
 
-
 ![BIG5-graphic](https://user-images.githubusercontent.com/835857/165518296-9d30ec06-9583-423d-8ae8-8ae55e856ac6.png)
+
+**Interpretation**
+
+Expect me to challenge you technically, both in ways of working and in coding, though not in a confronting way and with an open-mind. Be sure my work will be disciplined and deliberate, focusing on outcomes over output. I will bring perspectives you may not have thought of, and they will make sense.
 
 ## What I expect from the company and my peers
 
