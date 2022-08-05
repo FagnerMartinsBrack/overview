@@ -12,8 +12,6 @@ However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/
 
 I have a track record of improving teams in the long-term by 10x as a peer without being in a management role.
 
-I **DO NOT** have significant knowledge or experience in Machine Learning and Business Strategic Decision-Making, but happy to learn. I **DO NOT** have interest in Framework-Specific API Syntax, Computer Science Puzzles, and Sales.
-
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js), [jquery-cookie](https://github.com/carhartl), and I'm the author of [js-cookie](https://github.com/js-cookie/js-cookie).
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
