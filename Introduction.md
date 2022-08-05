@@ -18,11 +18,18 @@ I also have a [personal blog](https://fagnerbrack.com) which is a non-profit ini
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
+## Peer Testimonials
+
+<blockquote>
+ <p>Fagner was a great addition to the team and offered keen insights and new perspectives that helped to improve both our technical proficiency as well as the processes around the delivery of our project.</p>
+</blockquote>
+<p>— Michael, Lead Technical Consultant at Lexicon Digital</p>
+
 ## Self-Management
 
 One interesting thing that people told me in my previous roles is that I don't need to be managed. Maybe that's because I have experience on working in teams with diverse skillsets and personalities. For that reason, I've developed the ability to predict potential interpersonal issues that either myself or somebody else may encounter. That allows me to help raising expectations clearly and early to the relevant stakeholders, including to "manage up".
 
-However, depending on the personality differences of each peer and their values or ways of working, reaching common ground can take as little as days and as much as weeks. It's better to be aware of [Tuckman's curve](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) and to not give up once the Storming/Norming phase start to kick in.
+However, depending on the personality differences of each peer and their values or ways of working, reaching common ground can take as little as days and as much as weeks. It's better to be aware of [Tuckman's curve](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) and to not give up once the Storming/Norming phase starts to kick in.
 
 ## Personality
 
