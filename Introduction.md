@@ -62,7 +62,7 @@ Below is an overview of my personality traits according to the Big 5:
 * To respect your opinions and support your decisions, even if I disagree with them.
 * To help in other responsibilities I might have skills to assist.
 
-## Values
+## Fagner Brack's 10-point Values
 
 In the spirit of the [Agile](https://agilemanifesto.org/) and the [Software Crafters](http://manifesto.softwarecraftsmanship.org/) manifesto. Here are my values, with the same essential caveat of:
 
