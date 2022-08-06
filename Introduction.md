@@ -60,7 +60,7 @@ Below is an overview of my personality traits according to the Big 5:
 * To work actively towards reducing my own [Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/).
 * To understand the full picture of the problem and how it relates to the relevant stakeholders before I can help developing a solution.
 * To respect your opinions and support your decisions, even if I disagree with them.
-* To help in other responsibilities I might have skills to assist, as long as it's temporary and don't consume the majority of my coding job.
+* To help in other responsibilities I might have skills to assist.
 
 ## Values
 
