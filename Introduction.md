@@ -16,12 +16,17 @@ I also have a [personal blog](https://fagnerbrack.com) which is a non-profit ini
 
 I've been through a few cycles in the software industry where [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E). Whatever you're doing, it's probably the same thing I've seen before, only with a new name.
 
-## Peer Testimonials
+## Testimonials
 
 <blockquote>
  <p>Fagner was a great addition to the team and offered keen insights and new perspectives that helped to improve both our technical proficiency as well as the processes around the delivery of our project.</p>
 </blockquote>
 <p>— Michael, Lead Technical Consultant at Lexicon Digital</p>
+
+<blockquote>
+ <p>Fagner is a capable, hardworking, intelligent and skilful developer. His sound knowledge of software development principles and team dynamics have proven very helpful to delivering complex projects and solutions. His focus on interpersonal relationships and collaborative working have made him an asset to the team, and his willingness to provide insights and views on digital excellence are always a welcome addition.</p>
+</blockquote>
+<p>— Kay Shapievsky, Tech Lead at IAG (NRMA)</p>
 
 ## Self-Management
 
