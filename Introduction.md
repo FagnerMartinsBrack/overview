@@ -42,7 +42,9 @@ Below is an overview of my personality traits according to the Big 5:
 
 **Interpretation**
 
-Expect me to challenge you technically, both in ways of working and in coding, though not in a confronting way and with an open-mind. Be sure my work will be disciplined and deliberate, focusing on outcomes over output. I will bring perspectives you may not have thought of, and they will make sense.
+* Expect me to challenge you technically, both in ways of working and in coding, though not in a confronting way and with an open-mind.
+* My work will be disciplined and deliberate, asking many questions to fill all gaps, focusing on the outcome not the output.
+* I will bring perspectives you may not have thought of, and they will make sense to you.
 
 ## What I expect from the company and my peers
 
