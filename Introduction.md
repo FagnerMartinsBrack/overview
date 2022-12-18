@@ -22,11 +22,37 @@ I've been through a few cycles in the software industry where [Old Is the New Ne
  <p>Fagner was a great addition to the team and offered keen insights and new perspectives that helped to improve both our technical proficiency as well as the processes around the delivery of our project.</p>
 </blockquote>
 <p>— Michael, Lead Technical Consultant at Lexicon Digital</p>
-
+<hr>
 <blockquote>
  <p>Fagner is a capable, hardworking, intelligent and skilful developer. His sound knowledge of software development principles and team dynamics have proven very helpful to delivering complex projects and solutions. His focus on interpersonal relationships and collaborative working have made him an asset to the team, and his willingness to provide insights and views on digital excellence are always a welcome addition.</p>
 </blockquote>
 <p>— Kay Shapievsky, Tech Lead at IAG (NRMA)</p>
+<hr>
+<blockquote>
+  <p>
+  Despite Fagner mentoring our team for only a relatively short duration (1 month), his coaching was incredibly beneficial to the team in improving our engineering/design processes where his advice on key important concepts was very thoughtful, carefully-put, and hence provided a lot of long-term value to our team.
+  </p>
+  <p>
+With Fagner's background of working with many different kinds of teams, he effectively used his experience to help improve the teamwork of our team. Along with his passion for engineering/developing software, he combined these traits of his to effectively coach our team on how to improve code quality effectively with teamwork.
+  </p>
+   <p>
+Overall, Fagner was very skilled, friendly, and a pleasure to work with where his expertise in software development combined with his passion on understanding the philosophy of a team makes him an exceptional coach or addition to a team. I've personally learnt an abundant amount from him and hope that we touch base again in the future.
+  </p>
+</blockquote>
+<p>— Lorenzo Paras, Software Engineer at Service NSW</p>
+<hr>
+<blockquote>
+  <p>
+   Understanding a wide range of concepts and techniques around team work, efficiency and software engineering itself, Fagner becomes an invaluable member for any company.
+  </p>
+  <p>
+He communicates without noise, and guarantees that any detail that is unclear is brought up and discussed with the team so that everybody is on the same page.
+  </p>
+  <p>
+Fagner is also very pragmatic on his coding and self management approach, and passionate about mentoring others.
+  </p>
+</blockquote>
+<p>— Gustavo Henke, Front-End Engineer at Canva</p>
 
 ## Self-Management
 
