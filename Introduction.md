@@ -4,7 +4,7 @@ The link you received provides an overview of my background, what you can expect
 
 ## Background
 
-I have 15+ years of experience working with small, medium, and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures; Mob Programming, Pair Programming, and working individually; Fully Distributed, Hybrid Distributed, and office-only. I've built profitable (and non-profitable) systems end-to-end from scratch, with and without frameworks, either as a solo developer Startup or together as a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
+I have <b>15+ years of experience</b> working with small, medium, and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures; Mob Programming, Pair Programming, and working individually; Fully Distributed, Hybrid Distributed, and office-only. I've built profitable (and non-profitable) systems end-to-end from scratch, with and without frameworks, either as a solo developer Startup or together as a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
 
 My main interest and background is Software Engineering.
 
