@@ -12,7 +12,7 @@ However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/
 
 I have a track record of improving teams in the long-term by 10x as a peer without being in a management role.
 
-I have created the popular Open Source library [js-cookie](https://github.com/js-cookie/js-cookie), which is downloaded a [staggering 22 <b>billion</b> times](https://www.jsdelivr.com/package/npm/js-cookie) every year
+I have created the popular Open Source library [js-cookie](https://github.com/js-cookie/js-cookie), which is downloaded a [staggering 22 <b>billion</b> times](https://www.jsdelivr.com/package/npm/js-cookie) every year.
 
 I also have a [personal blog](https://fagnerbrack.com) which is a non-profit initiative to write about forgotten fundamentals of software. I post **30% of all links I read** on my [Reddit account](https://reddit.com/user/fagnerbrack) and [HackerNews account](https://news.ycombinator.com/submitted?id=fagnerbrack). I have also contributed to a few Open Source projects such as [impress.js](https://github.com/impress/impress.js) and [jquery-cookie](https://github.com/carhartl) (a jQuery project).
 
