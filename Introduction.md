@@ -6,7 +6,7 @@ The link you received provides an overview of my background, what you can expect
 
 I have <b>15+ years of experience</b> working with small, medium, and large companies. I've been on teams which practiced TDD, Event-Driven Design, Domain Driven Design, Event-Sourcing, Message-Oriented Architectures; Mob Programming, Pair Programming, and working individually; Fully Distributed, Hybrid Distributed, and office-only. I've built profitable (and non-profitable) systems end-to-end from scratch, with and without frameworks, either as a solo developer Startup or together as a team. I've also been on teams owning a codebase which had no tests, they never interacted with the business, and didn't know any other way of working.
 
-My main interest and background is Software Engineering.
+My main interest and background is <strong>Software Engineering</strong>.
 
 However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology, User Experience (UX), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, Ops, and Marketing/Advertising.
 
