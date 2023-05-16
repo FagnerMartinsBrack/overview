@@ -70,10 +70,10 @@ Below is an overview of my personality traits according to the Big 5:
 
 **Interpretation**
 
-* Expect me to challenge you technically, both in ways of working and in coding, though not in a confronting way and with an open-mind.
-* My work will be disciplined and deliberate, asking many questions to fill all gaps, focusing on the outcome not the output.
-* Pressure won't make me fall into the trap of doing a bad job or to work overtime. I'll use the time I have to do the best I can.
-* I will bring perspectives you may not have thought of, and they will make sense to you. Some of them require investment, but all options will put on the table with the input of everyone, so that you can make the best decision.
+* Low Agreeableness means: Expect me to challenge you technically, both in ways of working and in coding, though not in a confronting way and with an open-mind.
+* High Conscientiousness means: My work will be disciplined and deliberate, asking many questions to fill all gaps, focusing on the outcome not the output.
+* Above Average Emotion Stability means: Pressure won't make me fall into the trap of doing a bad job or to work overtime. I'll use the time I have to do the best I can.
+* High Intellect/Imagination means: I will bring perspectives you may not have thought of or things you haven't seen, and they will make sense to you. Some of them require investment, but I'll put all options on the table with the input of everyone, so that you can make the best decision.
 
 ## What I expect from the company and my peers
 
