@@ -8,7 +8,7 @@ I have <b>15+ years of experience</b> working with small, medium, and large comp
 
 My main interest and background is <strong>Software Engineering</strong>.
 
-However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology (IQ, Big 5, etc.), User Experience (UX, Web Design), Customer Support, Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, Ops, Marketing/Advertising, and Technical Content Marketing (blog posts).
+However, given my passion and [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality#:~:text=A%20multipotentialite%20is%20a%20person,calling%E2%80%9D%20the%20way%20specialists%20do.) I also have extensive experience on a diversity set of roles within software development. That includes knowledge and experience in Psychology (IQ, Big 5, etc.), User Experience (UX, Web Design), Public Relations, Product Management / Customer Behaviour Analysis, Finance / Cloud Billing Management, Ops, Marketing/Advertising, and Technical Content Marketing (blog posts).
 
 I have a track record of improving teams in the long-term by 10x as a peer without being in a management role.
 
